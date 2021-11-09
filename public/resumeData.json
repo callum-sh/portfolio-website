@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Callum Sharrock",
+    "occupation": "Student and Software Engineer",
+    "description": "I should have gone into engineering but am doing my best to turn a maths and computer science degree into a career aimed at creating real world solutions to complex problems involving space exploration and the environment",
+    "image": "profilepic.jpg",
+    "bio": "My favourite quote is by David Goggins in which he states that \"Passion and obsession, even talent, are only useful if you have the work ethic to back them up\". This quote acts as a reminder that the rituals and habits which surround us determine the person we become more so than our intentions. Therefore, I focus on creating intentional habits conducive to my overarching mission: to combine technology and leadership to solve problems worth solving in relation to space, the environment, and learning.",
+    "contactmessage": "I'm always looking for new opportunities and exciting projects to take part in! Whether you have questions, or just want to say hi, send me a message and I'll get back to you soon!",
+    "email": "callum.sharrock@gmail.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": ""
+    },
+    "website": "http://www.callumsharrock.com",
+    "resumedownload": "images/resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/callum-sharrock/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/callum-sh",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University of Toronto",
+        "degree": "H.B.Sc. in CS and Maths",
+        "graduated": "2020-2025",
+        "description": ""
+      },
+      {
+        "school": "Technology Leadership Initiatve (TLI)",
+        "degree": "University of Toronto",
+        "graduated": "2021+",
+        "description": "Selected as one of 24 students into the fourth Cohort of the Technology Leadership Initiative for students interested in the challenge of a program that offers industry-integrated classroom learning, tailored leadership training for technologists, and industry internships."
+      }
+    ],
+    "work": [
+      {
+        "company": "Robotics for Space Exploration (RSX)",
+        "title": "Autonomy Sub Team",
+        "years": "2021 - Present",
+        "description": "Our goal is to design and create a fully functioning Mars rover capable of performing a variety of tasks similar to what might be encountered in the mission to colonize Mars. As part of this, I work on the autonomy sub-team where we work on developing simulation software for the Mars rover in order to safely test the various control and autonomy code in ROS."
+      },
+      {
+        "company": "IncrementOne",
+        "title": "Software Developer",
+        "years": "2021 - Present",
+        "description": "Created a survey and graphing application to allow users to get instant visual feedback on company culture using Django, SQLite, and matplotlib. I also presented personal experience with agile delivery methods to demonstrate and explain applicability in school environments."
+      },
+      {
+        "company": "Xaxxon Technologies",
+        "title": "Contractor",
+        "years": "2020 - 2021",
+        "description": "Worked on implementing a machine learning framework to detect objects from a live video stream using PyTorch and ROS. Further, I assembled robots for use in customer manufacturing environments using CNC machines, 3D printers, soldering, and electronic circuitry. "
+      },
+      {
+        "company": "Capilano University",
+        "title": "Assistant Instructor",
+        "years": "2018 - 2019",
+        "description": "Taught two cohorts of 30 students game design in Unreal Engine using a modified version of C++ called Blueprints as part of the summer bootcamp program at Capilano University and the Digital Media Academy (DMA). While teaching, I introduced agile delivery methods into students' workflow which are now helping structure the goals and work routines over over 200 students. "
+      }
+    ],
+    "skills": [
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Senso.ai MVP",
+        "category": "Using an AI algorithm to change the way we buy cars.",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "F1 Statistics",
+        "category": "An application that calculates the probability of all future outcomes in the next F1 race. (WIP)",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "IncrementOne Survey",
+        "category": "An agile training tool that provides instantaneous of corporate culture.",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Xaxxon Autocrawler Robot",
+        "category": "A Fully Autonomous open source robot",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "DMA Projects",
+        "category": "My work throughout my DMA career that got showcased to members of the United Nations as part of their OECD Future Education 2030 initiative.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "RSX Rover",
+        "category": "Our rover that proudly represents the University of Toronto at various international competitions, including the University Rover Challenge and the CanSat competition.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "\"Callum is a very strong student but has the personal qualities, abilities and skills needed to be a team player; however, the engine that runs and directs and motivates him is the desire to create meaningful outcomes.\"",
+        "user": "Murray Bulger, Head of the Digital Media Academy"
+      },
+      {
+        "text": "\"Callum has consistently impressed me with his perseverance, commitment, intellectual ability, and personality. He has taken on a very challenging academic program and has stretched himself through our Digital Media Academy where he has not only excelled but demonstrated outstanding leadership. He is a genuinely kind and dedicated student who I am confident will continue on an impressive trajectory. \"",
+        "user": "Mr. John Crowley, Vice Principle of Argyle Secondary School"
+      }
+    ]
+  }
+}
