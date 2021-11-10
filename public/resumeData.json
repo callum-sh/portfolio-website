@@ -77,40 +77,46 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Senso.ai MVP",
+        "title": "Senso Education MVP",
         "category": "Using an AI algorithm to change the way we buy cars.",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "image": "senso-ai.png",
+        "url": "https://github.com/TLI-Project"
       },
       {
         "title": "F1 Statistics",
         "category": "An application that calculates the probability of all future outcomes in the next F1 race. (WIP)",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "image": "f1-stats.png",
+        "url": "https://github.com/callum-sh/f1-stats"
       },
       {
         "title": "IncrementOne Survey",
         "category": "An agile training tool that provides instantaneous of corporate culture.",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+        "image": "incone.png",
+        "url": "https://github.com/IncrementOne-Corp"
       },
       {
         "title": "Xaxxon Autocrawler Robot",
         "category": "A Fully Autonomous open source robot",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
+        "image": "xaxxon.png",
+        "url": "http://www.google.com"
       },
       {
         "title": "DMA Projects",
         "category": "My work throughout my DMA career that got showcased to members of the United Nations as part of their OECD Future Education 2030 initiative.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "image": "dma.png",
+        "url": "http://www.google.com"
       },
       {
         "title": "RSX Rover",
         "category": "Our rover that proudly represents the University of Toronto at various international competitions, including the University Rover Challenge and the CanSat competition.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "image": "rsx.png",
+        "url": "https://github.com/rsx-utoronto/rover"
+      },
+      {
+        "title": "Manim Animations",
+        "category": "Using the Python library developed by 3B1B, I visualize different math concepts from my classes in animations to get a better understanding of what is going on. Plus it is kinda fun and really cool.",
+        "image": "manim.png",
+        "url": "https://github.com/callum-sh/manim_projects"
       }
     ]
   },
